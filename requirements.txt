@@ -4,7 +4,7 @@ aiohttp<=3.8.1
 python-dotenv<=0.20.0
 motor
 aiofiles
-dnspython
+dnspython==2.3.0
 apscheduler
 requests
 psutil
